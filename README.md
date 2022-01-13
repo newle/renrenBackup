@@ -7,9 +7,11 @@ A backup tool for renren.com
 
 # ruotianluo notes
 
-支持人人新接口。（2021.1测试）
+支持人人新接口。（2022.1测试）
 
 支持两种登陆方式，用户名密码登陆以及cookie登陆（Instruction视频指路：[url](https://www.bilibili.com/video/BV1vT4y1m7Pd/)）。
+
+评论点赞基本无视，因为人人的服务器已经不行了。
 
 TODO:
 - [x] cookie cache，无需每次登陆
@@ -19,7 +21,7 @@ TODO:
 - [x] Windows release
 - [x] 知乎文章
 - [x] 更换login逻辑
-- [ ] 整理代码，优化代码结构。
+- [x] 整理代码，优化代码结构。
 - [x] 添加CI
 - [x] 状态加图片
 
