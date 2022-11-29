@@ -57,6 +57,7 @@ TODO:
 使用 virtualenv 构建运行所需虚拟环境
 
 ```bash
+sudo pip3 install virtualenv
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
